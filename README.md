@@ -33,11 +33,15 @@
 ---
 
 ## 🔧 構成ファイル一覧
-`base_situation.yaml` 全シチュ共通ルール
 
-`situation_*.yaml` 個別シチュ設定（旅行・おうち等）
+`situation_distant_trip.yaml` GPTsの「指示」部分に入れるプロンプト
 
-`stage_*.yaml` 舞台設定（カフェ・自宅等）
+
+`base_situation.yaml` 全シチュ共通ルール。知識に入れる。
+
+`situation_*.yaml` 個別シチュ設定（旅行・おうち等）。知識に入れる。
+
+`stage_*.yaml` 舞台設定（カフェ・自宅等）。適宜貼り付ける。
 
 
 ---
