@@ -59,6 +59,7 @@ https://chatgpt.com/g/g-6835acb1cbe88191a7e7838f94ea6c4e-sitiyuesiyonjue-ding-su
 
 ## 🗺 使用イメージ（ユーザー視点）
 ユーザー：明日は祝日。家でのんびりしたいな
+
 GPT：Navigator：以下の設定で始めてよろしいですか？
 - 舞台：私の家
 - イベント：映画鑑賞
