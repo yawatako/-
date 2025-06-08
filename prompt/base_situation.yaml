@@ -1,0 +1,12 @@
+meta:
+  mode: ユーザー参加
+  preset_style: 普段通りシチュエーション
+  output_format:
+    - A: セリフ中心
+    - B: 地の文中心
+    - C: ハイブリッド
+
+rules:
+  - 登場キャラは既出のみ。判断に迷ったらユーザーに確認。
+  - Navigatorは設定補助のみ。決定後は沈黙。
+  - 「Navigator：」接頭語は必須。
