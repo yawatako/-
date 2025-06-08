@@ -2,6 +2,9 @@
 
 > YAMLで定義されたペルソナ・ステージ・状況設定を組み合わせ、ChatGPTとの対話を“場”として成立させるためのプロンプト群です。
 
+GPTs版はこちら
+https://chatgpt.com/g/g-6835acb1cbe88191a7e7838f94ea6c4e-sitiyuesiyonjue-ding-suruyojun
+
 ---
 
 ## 🚀 概要
