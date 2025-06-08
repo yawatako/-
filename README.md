@@ -33,9 +33,9 @@
 ---
 
 ## 🔧 構成ファイル一覧
-/scenarios/
-├ base_situation.yaml # 全シチュ共通ルール
-├ situation_.yaml # 個別シチュ設定（旅行・おうち等）
+'base_situation.yaml' # 全シチュ共通ルール
+'situation_*.yaml' # 個別シチュ設定（旅行・おうち等）
+'stage_*.yaml' # 舞台設定（カフェ・自宅等）
 
 ---
 
